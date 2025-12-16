@@ -31,7 +31,6 @@ test_functions <- list(
   heavi = function(n) DJ.EX(n = n)$heavi
 )
 
-
 Classical_results_df <- data.frame(
   Method = character(),
   Function = character(),
