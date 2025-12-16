@@ -1,2 +1,2 @@
 # raised-cosine-wavelet-shrinkage
-Simulation code for the wavelet shrinkage rule under raised cosine prior.
+This repository contains the R code used to reproduce the simulation study presented in the manuscript "*Wavelet shrinkage based on the raised cosine prior*" (under review).
