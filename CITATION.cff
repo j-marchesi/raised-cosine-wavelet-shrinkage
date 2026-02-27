@@ -6,18 +6,17 @@ authors:
   - family-names: "Reina"
     given-names: "Juliana Marchesi"
     orcid: "https://orcid.org/0009-0002-8411-5616"
-  - family-names: "Sousa"
-    given-names: "Alex Rodrigo dos Santos"
-    orcid: "https://orcid.org/0000-0001-5887-3638"
-repository-code: "https://github.com/j-marchesi/raised-cosine-wavelet-shrinkage"
+url: "https://github.com/j-marchesi/raised-cosine-wavelet-shrinkage"
 preferred-citation:
   type: article
   title: "Wavelet shrinkage based on the raised cosine prior"
   authors:
     - family-names: "Reina"
       given-names: "Juliana Marchesi"
+      orcid: "https://orcid.org/0009-0002-8411-5616"
     - family-names: "Sousa"
       given-names: "Alex Rodrigo dos Santos"
+      orcid: https://orcid.org/0000-0001-5887-3638
   journal: "Journal of Statistical Computation and Simulation"
   publisher: "Taylor & Francis"
   year: 2026
